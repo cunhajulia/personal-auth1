@@ -1,0 +1,82 @@
+/* body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+} */
+body {
+    /* background-color: #4193da; */
+    background-image: url('img/Blue\ Simple\ World\ Water\ Day\ Typography\ -\ Instagram\ Story.png');
+    background-size: cover;
+    font-family: 'Manrope' !important;
+}
+img{
+  height: 200px;
+}
+.container {
+    background-color: rgb(106	178	209);
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    opacity: 0.9;
+}
+
+.julia.text-center{
+  padding: 30px;
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+}
+
+.page-header {
+    border-bottom: 1px solid #cde5f7;
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+.page-header h1 {
+    color: #428bca;
+}
+.waterIntake {
+    list-style: none;
+    padding-left: 0;
+}
+.waterIntake .message {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #cde5f7;
+    font-size: 16px;
+    color: #428bca;
+}
+.waterIntake .message span {
+    margin-right: 10px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+select {
+    margin-bottom: 10px;
+}
+button{
+  background-color:  orchid;
+  color: white;
+  border-radius: 18px;
+  padding: 8px;
+  border: none;
+  font-family: 'Manrope' !important;
+}
+.col-sm-6{
+  text-align: center;
+  margin-left: 26%;
+}
+.btn-default{
+  background-color: orchid;
+  color: white;
+  font-family: 'Manrope';
+}
